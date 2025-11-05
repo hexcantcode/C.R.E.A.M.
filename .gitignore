@@ -1,0 +1,36 @@
+# Node modules
+node_modules/
+target/
+.DS_Store
+
+# IDL files
+target/types/
+
+# Anchor
+.anchor/
+target/deploy/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Local env
+.env.local
+.env
+*.log
+
+# Testing
+coverage/
+
+# Build artifacts
+dist/
+build/
+
+
